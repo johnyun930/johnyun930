@@ -6,7 +6,7 @@
 
 👋 Hello, My name is John JongHun Yun, I am a Front-web developer who is looking for a job.
 
-My major is Computer Studies and Information and I graduated from Douglas College in December 2020. I have projected expericed using React(Confident), TypeScript, Express.js&ts(Confident), MongoDB. I am very interested in making logic and algorithms and like to code http communication.
+My major is Computer Studies and Information and I graduated from Douglas College in December 2020. I have projected expericed using **React(Confident)**, **JavaScript**, **TypeScript**, **Express.Js&Ts** (Confident), **MongoDB**. I am very interested in making logic and algorithms and like to code http communication.
 
 ### :purple_heart: Career
 
