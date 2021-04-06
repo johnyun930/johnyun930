@@ -18,16 +18,16 @@ My major is Computer Studies and Information and I graduated from Douglas Colleg
 | **External activities** | 2021. 1 ~ current | [Lifeway Generation Church Website](https://lifewaygen.ga "Welcome to Lifeway Generation Church")  | **LifeWay Generation Church** |React, SCSS, Go, MongoDB 
 
 
-### :cyclone: Languages
+## :cyclone: Languages
 ![JavaScript](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=React&logoColor=white)![Express](https://img.shields.io/badge/Express-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=TypeScript&logoColor=white) 
 ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Java](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-red?style=plastic&logo=Java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?style=plastic&logo=Go&logoColor=white)  
 ***DataBase***
 ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=plastic&logo=MySQL&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-Green?style=plastic&logo=MongoDB&logoColor=white)  
-***sub***
+**sub**
 ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=plastic&logo=SAss&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled_Components-blue?style=plastic&logo=StyledL&logoColor=white) ![Git](https://img.shields.io/badge/Git-blue?style=plastic&logo=git&logoColor=white)
 ![Passport](https://img.shields.io/badge/Passport.JS-lightgrey?style=plastic&logo=passport&logoColor=white)
 - 🔭 I’m currently looking for a job
 
-### :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnyun930@gmail.com)](mailto:johnyun930@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/johnyun930)](https://www.facebook.com/johnyun930) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//jonghunyun)](https://www.linkedin.com/in//jonghunyun)
 
