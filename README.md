@@ -28,9 +28,12 @@ My major is Computer Studies and Information and I graduated from Douglas Colleg
 #### Others
 ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Java](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-red?style=plastic&logo=Java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?style=plastic&logo=Go&logoColor=white)  
 ***DataBase***
+
 ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=plastic&logo=MySQL&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-Green?style=plastic&logo=MongoDB&logoColor=white)  
 **sub**
+
 ![SCSS](https://img.shields.io/badge/-SCSS-pink?style=plastic&logo=SAss&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled_Components-blue?style=plastic&logo=StyledL&logoColor=white) 
+
 ![Git](https://img.shields.io/badge/Git-blue?style=plastic&logo=git&logoColor=white) ![Passport](https://img.shields.io/badge/Passport.JS-lightgrey?style=plastic&logo=passport&logoColor=white)
 - 🔭 I’m currently looking for a job
 
