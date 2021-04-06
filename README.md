@@ -19,7 +19,13 @@ My major is Computer Studies and Information and I graduated from Douglas Colleg
 
 
 ## :cyclone: Languages
-![JavaScript](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=React&logoColor=white)![Express](https://img.shields.io/badge/Express-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=TypeScript&logoColor=white) 
+#### Front-End
+![JavaScript](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=JavaScript&logoColor=white) 
+![React](https://img.shields.io/badge/React-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=React&logoColor=white)
+#### Back-End
+![Express](https://img.shields.io/badge/Express-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Express&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=TypeScript&logoColor=white)
+#### Others
 ![ANDROID](https://img.shields.io/badge/JAVA%20&%20ANDROID-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3DDC84?style=plastic&logo=android&logoColor=white)  ![Java](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-red?style=plastic&logo=Java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-blue?style=plastic&logo=Go&logoColor=white)  
 ***DataBase***
 ![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue?style=plastic&logo=MySQL&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-Green?style=plastic&logo=MongoDB&logoColor=white)  
