@@ -14,7 +14,7 @@ My major is Computer Studies and Information and I graduated from Douglas Colleg
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Part Time** | 2021. 1 ~ current | [Lifeway Generation Church Website](https://lifewaygen.ga "Welcome to Lifeway Generation Church")  | **LifeWay Generation Church** |React, TypeScript, Node.js,Express.js, MongoDB 
 | **Personal activities** | 2020. 1 ~ 2019.5 | [CINEMATICPLEX(Movie Review App)](https://github.com/johnyun930/CinematicPlex "github link") | **Personal** |React, SCSS, Go, MongoDB |
-| **Class Project** | 2019. 9 ~ 2019. 12 | [Piggy Bank Mobile APP](https://github.com/johnyun930/PiggyBank-Android-Project- "github link") | **Douglas College** |  JAVA&&Android|
+| **Class Project** | 2019. 9 ~ 2019. 12 | [Piggy Bank Mobile APP](https://github.com/johnyun930/PiggyBank-Android-Project- "github link") | **Douglas College** |  JAVA&Android|
 | **Class Project** | 2019. 9 ~ 2019. 12 | [Tour Review APP: Backend Leader](https://github.com/johnyun930/Tour-Review-Web-App "github link" )| **Douglas College: Software Engineering** |React, Express,  MySql, Node.js|
 
 
